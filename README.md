@@ -8,4 +8,4 @@ if the user accepts, opens an admin session
 start the app the user wanted to start
 
 pigeon-escalation :
-when the user is away, fake lock windows to fish credentials
+when the user is away, fake lock windows to phish admin credentials
