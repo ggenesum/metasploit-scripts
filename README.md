@@ -1,5 +1,5 @@
 # metasploit-scripts
-metasploit scripts
+my old collection of metasploit scripts
 
 
 UACphish :
